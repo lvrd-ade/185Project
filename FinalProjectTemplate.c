@@ -15,7 +15,7 @@ Team member 4 "Name" | "Percentage of Contribution to The Project"
 #include <string.h>
 #include <time.h>
 #define MAX_WORDS 2000
-#define MAX_WORD_LENGTH 12
+#define MAX_WORD_LENGTH 15
 
 //add more here////
 
