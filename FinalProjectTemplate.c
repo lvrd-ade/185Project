@@ -34,7 +34,10 @@ int read_words(char *word_list[MAX_WORDS], char *file_name);
 int main(){
 	char *word_list[MAX_WORDS];
 	int word_count = read_words(word_list, "wordList.txt");
-	
+	srand(time(NULL));
+	printf("Hello, this is a typing game. You will need to type the words as they appear\n");
+	printf("Would you like to play or add a word?\n You currently have %d words that can be used.\n(p/a)");	
+
 	
 	
 	
