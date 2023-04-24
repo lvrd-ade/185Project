@@ -8,7 +8,14 @@ Team member 4 "Name" | "Percentage of Contribution to The Project"
 */
 
 ////////////////////
-#include<stdio.h>//
+#include<stdio.h>
+#include <ctype.h>
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
+#include <ncurses/ncurses.h>
+#include <unistd.h>
+#include <time.h>
 //add more here////
 
 //////////////////////
