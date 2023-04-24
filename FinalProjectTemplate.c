@@ -16,9 +16,9 @@ Team member 4 "Name" | "Percentage of Contribution to The Project"
 #include <ncurses/ncurses.h>
 #include <unistd.h>
 #include <time.h>
-324353535
+
 //add more here////
-// operation 185
+
 //////////////////////
 //Struct Definition//
 ////////////////////
@@ -31,7 +31,7 @@ Team member 4 "Name" | "Percentage of Contribution to The Project"
 /////////////////////////////////
 
 int main(){
-	
+	int x,y;
 	
 	
 	
