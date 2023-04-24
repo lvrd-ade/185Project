@@ -13,8 +13,6 @@ Team member 4 "Name" | "Percentage of Contribution to The Project"
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
-//#include <ncurses/ncurses.h>
-//#include <unistd.h>
 #include <time.h>
 
 //add more here////
@@ -31,7 +29,6 @@ Team member 4 "Name" | "Percentage of Contribution to The Project"
 /////////////////////////////////
 
 int main(){
-	int x,y;
 	
 	
 	
