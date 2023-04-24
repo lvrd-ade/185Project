@@ -16,8 +16,9 @@ Team member 4 "Name" | "Percentage of Contribution to The Project"
 #include <ncurses/ncurses.h>
 #include <unistd.h>
 #include <time.h>
+324353535
 //add more here////
-// balls hnehe
+// operation 185
 //////////////////////
 //Struct Definition//
 ////////////////////
